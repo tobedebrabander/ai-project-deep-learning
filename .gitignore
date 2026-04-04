@@ -66,3 +66,4 @@ KneeOA/
 
 *.txt
 *.npy
+*.keras
