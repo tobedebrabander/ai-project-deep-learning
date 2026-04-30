@@ -62,10 +62,6 @@ venv.bak/
 Thumbs.db
 
 # Project specific
-KneeOA/
-baseline_model/
 
 *.txt
-*.npy
-*.keras
-*.pth
+*.png
